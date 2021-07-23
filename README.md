@@ -3,7 +3,7 @@
 ## Run
 
     docker build . -t pres-devops-vision:latest
-    docker run --rm -p 8080:8000 pres-devops-vision
+    docker run --rm -p 8080:8000 pres-devops-vision:latest
 
 ## Develop
 
